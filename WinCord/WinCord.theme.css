@@ -37,10 +37,10 @@
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
-    --background-primary:   #8800a9;
-    --background-secondary:  #680082;
-    --background-secondary-alt:  #a700d0;
-    --background-tertiary:  #5d0074;
+    --background-primary:    #400050;
+    --background-secondary:   #31003d;
+    --background-secondary-alt:   #200028;
+    --background-tertiary:     #3e0161;
     --background-accent: #4f545c;
     --background-floating: #3d3d3d5b;
     --brand-experiment: #6771A1;
@@ -48,8 +48,8 @@
     --background-blur: 10px;
     --background-transparent:  #64646421;
     --background-toolbar: #272729;
-    --background-mentioned: #373B46;
-    --background-mentioned-hover: #484e5f;
+    --background-mentioned:  #e3e7be;
+    --background-mentioned-hover:  #e8efa4;
     --info-warning-background: #818cc067;
     --info-warning-foreground: #818cc0;
     --menu-blur:   10px;
